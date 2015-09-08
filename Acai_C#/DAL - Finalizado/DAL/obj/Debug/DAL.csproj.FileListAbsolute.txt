@@ -1,0 +1,17 @@
+H:\visual studio 2013\Projects\DAL\DAL\bin\Debug\DAL.dll
+H:\visual studio 2013\Projects\DAL\DAL\bin\Debug\DAL.pdb
+H:\visual studio 2013\Projects\DAL\DAL\bin\Debug\MySql.Data.dll
+H:\visual studio 2013\Projects\DAL\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\visual studio 2013\Projects\DAL\DAL\obj\Debug\DAL.dll
+H:\visual studio 2013\Projects\DAL\DAL\obj\Debug\DAL.pdb
+H:\visual studio 2013\Projects\DAL - Copia\DAL\bin\Debug\DAL.dll
+H:\visual studio 2013\Projects\DAL - Copia\DAL\bin\Debug\DAL.pdb
+H:\visual studio 2013\Projects\DAL - Copia\DAL\bin\Debug\MySql.Data.dll
+H:\visual studio 2013\Projects\DAL - Copia\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\visual studio 2013\Projects\DAL - Copia\DAL\obj\Debug\DAL.dll
+H:\visual studio 2013\Projects\DAL - Copia\DAL\obj\Debug\DAL.pdb
+H:\visual studio 2013\Projects\DAL - Finalizado\DAL\bin\Debug\DAL.dll
+H:\visual studio 2013\Projects\DAL - Finalizado\DAL\bin\Debug\DAL.pdb
+H:\visual studio 2013\Projects\DAL - Finalizado\DAL\bin\Debug\MySql.Data.dll
+H:\visual studio 2013\Projects\DAL - Finalizado\DAL\obj\Debug\DAL.dll
+H:\visual studio 2013\Projects\DAL - Finalizado\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,40 @@
+C:\Users\giuli_000\Desktop\maciel\Acai\Acai\bin\Debug\Acai.exe.config
+C:\Users\giuli_000\Desktop\maciel\Acai\Acai\bin\Debug\Acai.exe
+C:\Users\giuli_000\Desktop\maciel\Acai\Acai\bin\Debug\Acai.pdb
+C:\Users\giuli_000\Desktop\maciel\Acai\Acai\bin\Debug\DAL.dll
+C:\Users\giuli_000\Desktop\maciel\Acai\Acai\bin\Debug\MySql.Data.dll
+C:\Users\giuli_000\Desktop\maciel\Acai\Acai\bin\Debug\DAL.pdb
+C:\Users\giuli_000\Desktop\maciel\Acai\Acai\obj\Debug\Acai.csprojResolveAssemblyReference.cache
+C:\Users\giuli_000\Desktop\maciel\Acai\Acai\obj\Debug\Acai.Login.resources
+C:\Users\giuli_000\Desktop\maciel\Acai\Acai\obj\Debug\Acai.Properties.Resources.resources
+C:\Users\giuli_000\Desktop\maciel\Acai\Acai\obj\Debug\Acai.csproj.GenerateResource.Cache
+C:\Users\giuli_000\Desktop\maciel\Acai\Acai\obj\Debug\Acai.exe
+C:\Users\giuli_000\Desktop\maciel\Acai\Acai\obj\Debug\Acai.pdb
+C:\Users\giuli_000\Desktop\maciel\Acai\Acai\obj\Debug\Acai.AlterarProdutos.resources
+C:\Users\giuli_000\Desktop\maciel\Acai\Acai\obj\Debug\Acai.CadastroProdutos.resources
+C:\Users\giuli_000\Desktop\maciel\Acai\Acai\obj\Debug\Acai.CadastraUsuario.resources
+C:\Users\giuli_000\Desktop\maciel\Acai\Acai\obj\Debug\Acai.AlterarUsuarios.resources
+C:\Users\giuli_000\Desktop\maciel\Acai\Acai\obj\Debug\Acai.Venda.resources
+C:\Users\giuli_000\Desktop\maciel\Acai\Acai\obj\Debug\Acai.PesquisaVenda.resources
+C:\Users\giuli_000\Desktop\maciel\Acai\Acai\obj\Debug\Acai.PrincipalFunc.resources
+C:\Users\giuli_000\Desktop\maciel\Acai\Acai\obj\Debug\Acai.PrincipalGeren.resources
+C:\Users\giulio\Documents\Acai - C#\Acai\Acai\bin\Debug\Acai.exe.config
+C:\Users\giulio\Documents\Acai - C#\Acai\Acai\obj\Debug\Acai.exe
+C:\Users\giulio\Documents\Acai - C#\Acai\Acai\obj\Debug\Acai.pdb
+C:\Users\giulio\Documents\Acai - C#\Acai\Acai\bin\Debug\Acai.exe
+C:\Users\giulio\Documents\Acai - C#\Acai\Acai\bin\Debug\Acai.pdb
+C:\Users\giulio\Documents\Acai - C#\Acai\Acai\bin\Debug\DAL.dll
+C:\Users\giulio\Documents\Acai - C#\Acai\Acai\bin\Debug\MySql.Data.dll
+C:\Users\giulio\Documents\Acai - C#\Acai\Acai\bin\Debug\DAL.pdb
+C:\Users\giulio\Documents\Acai - C#\Acai\Acai\obj\Debug\Acai.csprojResolveAssemblyReference.cache
+C:\Users\giulio\Documents\Acai - C#\Acai\Acai\obj\Debug\Acai.AlterarProdutos.resources
+C:\Users\giulio\Documents\Acai - C#\Acai\Acai\obj\Debug\Acai.AlterarUsuarios.resources
+C:\Users\giulio\Documents\Acai - C#\Acai\Acai\obj\Debug\Acai.CadastraUsuario.resources
+C:\Users\giulio\Documents\Acai - C#\Acai\Acai\obj\Debug\Acai.CadastroProdutos.resources
+C:\Users\giulio\Documents\Acai - C#\Acai\Acai\obj\Debug\Acai.Login.resources
+C:\Users\giulio\Documents\Acai - C#\Acai\Acai\obj\Debug\Acai.PesquisaVenda.resources
+C:\Users\giulio\Documents\Acai - C#\Acai\Acai\obj\Debug\Acai.PrincipalFunc.resources
+C:\Users\giulio\Documents\Acai - C#\Acai\Acai\obj\Debug\Acai.PrincipalGeren.resources
+C:\Users\giulio\Documents\Acai - C#\Acai\Acai\obj\Debug\Acai.Properties.Resources.resources
+C:\Users\giulio\Documents\Acai - C#\Acai\Acai\obj\Debug\Acai.Venda.resources
+C:\Users\giulio\Documents\Acai - C#\Acai\Acai\obj\Debug\Acai.csproj.GenerateResource.Cache
