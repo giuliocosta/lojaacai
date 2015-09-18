@@ -71,5 +71,3 @@ BEGIN
 		UPDATE produto SET estoque = estoque - 1 WHERE idproduto = NEW.produto_idproduto;
 END; ||
 DELIMITER ;
-
-matheus.maciinho@hotmail.com
